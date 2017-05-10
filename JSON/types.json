@@ -1,0 +1,18 @@
+{
+    "types": [{
+        "id": 0,
+        "catergory": 0,
+        "name": "personal",
+        "description": "Fireworks intended for persona useage"
+    }, {
+        "id": 1,
+        "catergory": 1,
+        "name": "professional",
+        "description": "Fireworks for people who know what they're doing."
+    }, {
+        "id": 2,
+        "catergory": 2,
+        "name": "almosrt-military-grade",
+        "description": "Pretty much military grade explosives. Not even sure why we sell this stuff."
+    }]
+}

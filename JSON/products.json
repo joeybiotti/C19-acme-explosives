@@ -1,0 +1,59 @@
+{
+    "products": [{
+        "fairy_sparkers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparkers",
+            "description": "Multi-colored sparklers that are safe for any age"
+        },
+        "bottle_rockets": {
+            "id": 0,
+            "type": 0,
+            "name": "Bottle Rockets",
+            "description": "You can shoot them out of a bottle and watch them make a little pop"
+        },
+        "roman_candle": {
+            "id": 0,
+            "type": 0,
+            "name": "Roman Candle",
+            "description": "Shoot them at your friends."
+        },
+        "flower_power": {
+            "id": 1,
+            "type": 1,
+            "name": "Flower Power",
+            "description": "Sure to be a favorite for this year's show! Three-inch core rack, assures a big-bang finish with shots that fill the sky! Each shot features a beautiful pearl ring inside of a brocade ring creating a sensational sunflower effect."
+        },
+        "burst_n_bloom": {
+            "id": 1,
+            "type": 1,
+            "name": "Burst 'N Bloom",
+            "description": "This Acme Explosives brand provides a fantastic variety of colorful crossette breaks, glitter filled peonys and a wide spectrum of color combos consisting of red, green, silver, purple and blue."
+        },
+        "mulberry_street_mayhem": {
+            "id": 1,
+            "type": 1,
+            "name": "Mulberry Street Mayhem",
+            "description": "This fountain has it all! Color flames, strobes with crackle red, red and lemon flowers, green pearls, color swirls with silver , and a titanium red, gren, and blue barrage finale"
+        },
+        "x-9_panoramic_finale":{
+        	"id": 2,
+        	"type": 2,
+        	"name": "X-9 Panoramic Finale",
+        	"description": "Huge finale bursts timed and angled for panoramic perfection! Red to green wave, gold glitter, red palm, gold palm with green glitter, glitter willow, red wave, silver chrysanthemum, blue wave and silver chrysanthemum."
+        },
+        "red_white_and_boom":{
+        	"id": 2,
+        	"type": 2,
+        	"name": "Red White and Boom",
+        	"description": "Alternating beautiful red, white and blue chrysanthemums end with a stellar finale sequence!"
+        },
+        "powercell_25":{
+        	"id": 2,
+        	"type": 2,
+        	"name":"Powercell 25",
+        	"description": "High-flying mine/wave combinations of red, green, white and blue, with crackling mine with crackling wave finale."
+        }
+
+    }]
+}
